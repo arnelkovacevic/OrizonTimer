@@ -37,7 +37,9 @@ Before running the app, install the required packages:
 Clone or download the project
 Ensure all dependencies are installed
 Run the app using:
- - python main.py
+ - python app.py
+
+   -----------
 Add users, start tracking, and generate reports instantly.
 📦 Exporting to Executable (Optional)
 To create a standalone .exe file:
