@@ -3,17 +3,18 @@
 
 
 Built with Python and CustomTkinter, it features a clean dark interface, real-time tracking, and automated data management — all in one lightweight package.
-🔧 Key Features
-✅ Multiple user tracking — Add users by name; each user gets an individual timer that starts automatically.
-⏱️ Synchronized operation — All timers run in parallel and remain perfectly synchronized, calculating costs in real time.
-💰 Total overview — Automatically sums up total time and total cost across all users for an instant view of daily earnings.
-📅 Date selection — Choose the working date before starting to maintain organized daily records.
-💾 Auto-saving — All data is automatically saved into structured tables and stored as daily .csv files.
-🔄 Load previous data — Reopening a saved date instantly restores and displays that day’s timers and results.
-🛑 Individual control — Pause or stop each user’s timer independently from others.
-📊 Reports and analytics — Generate detailed end-of-day summaries showing user names, time spent, and total cost.
-🧾 PDF Reports — Export daily reports as polished PDF files for printing, archiving, or sharing with managers/clients.
-⚙️ Flexible hourly rate — Fully customizable hourly rate, adjustable to your specific pricing model.
+
+- 🔧 Key Features
+- ✅ Multiple user tracking — Add users by name; each user gets an individual timer that starts automatically.
+- ⏱️ Synchronized operation — All timers run in parallel and remain perfectly synchronized, calculating costs in real time.
+- 💰 Total overview — Automatically sums up total time and total cost across all users for an instant view of daily earnings.
+- 📅 Date selection — Choose the working date before starting to maintain organized daily records.
+- 💾 Auto-saving — All data is automatically saved into structured tables and stored as daily .csv files.
+- 🔄 Load previous data — Reopening a saved date instantly restores and displays that day’s timers and results.
+- 🛑 Individual control — Pause or stop each user’s timer independently from others.
+- 📊 Reports and analytics — Generate detailed end-of-day summaries showing user names, time spent, and total cost.
+- 🧾 PDF Reports — Export daily reports as polished PDF files for printing, archiving, or sharing with managers/clients.
+- ⚙️ Flexible hourly rate — Fully customizable hourly rate, adjustable to your specific pricing model.
 
 ----------
 🖥️ Interface
